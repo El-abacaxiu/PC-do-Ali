@@ -1,2 +1,2 @@
 # PC-do-Ali
-Projeto em HTML
+Projeto em HTML escolar
