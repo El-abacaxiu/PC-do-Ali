@@ -1,8 +1,9 @@
 h1 {
     font-size: 48px;
     text-align: center;
-    font-family: "Arial"
-    font-weigth: "Bold"
+    font-family: 'Montserrat', sans-serif;
+    font-weigth: 800;
+    text-transform: uppercase;
 }
 
 img {
