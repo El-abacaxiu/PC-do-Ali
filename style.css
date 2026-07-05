@@ -1,0 +1,5 @@
+img {
+    max-width: 300px; /* Escolha o tamanho em pixels que achar melhor (ex: 200px, 400px) */
+    height: auto;
+    border-radius: 8px; /* Dica extra: deixa as bordas arredondadas e bonitas! */
+}
